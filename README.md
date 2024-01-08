@@ -22,12 +22,12 @@
 - 특정 호스트만 SNMP 패킷을 받을 수 있도록 SNMP Access Control이 설정된 경우 양호(PermittedManagers 설정이 있으면 양호)
 
 ## 검사 결과 (대응 전)
-- ![0](https://github.com/hanmin0512/batch_SRV-002/assets/37041208/584f82fc-13a1-409c-bcd5-d476a8e368a4)
+- ![0](256978380-584f82fc-13a1-409c-bcd5-d476a8e368a4.png)
 
 ## 대응 및 대응 후 검사 결과
 - 대응
-- ![1](https://github.com/hanmin0512/batch_SRV-002/assets/37041208/3b302b80-15d8-4801-9069-e0be6c4d43de)
+- ![1](256978420-3b302b80-15d8-4801-9069-e0be6c4d43de.png)
 - 대응 후 검사 결과
-- ![2](https://github.com/hanmin0512/batch_SRV-002/assets/37041208/292e0091-c05d-40ea-9155-2f2ba4e5e0d9)
+- ![2](256978438-292e0091-c05d-40ea-9155-2f2ba4e5e0d9.png)
 
 
